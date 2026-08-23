@@ -10,10 +10,12 @@ from blank repo to live traffic.
 **Postgres · DynamoDB · AWS (EC2, Lambda, Step Functions) · Terraform · Supabase · Neon**
 
 ### 🚀 Projects
+- **[DayApp](https://github.com/faraz-35/dayapp)** — Native macOS daily-action app with auto-journaling. Tauri 2 (Rust) + React + SQLite.
+- **[Writing Partner](https://github.com/faraz-35/writing)** — A thinking-partner agent that reads alongside you and points (never writes for you). Firefox extension + local opencode agent.
+- **[Musical](https://github.com/faraz-35/musical)** — Sing-along English subtitles for YouTube songs. Python backend + Firefox extension.
 - **[Five Lessons](https://github.com/faraz-35/five-lessons)** — AI-generated 5-min math/CS lessons, read in a Capacitor Android app
 - **[Agent Starter](https://github.com/faraz-35/agent-starter)** — Agent-first dev template optimized for context engineering
 - **[Knowledge Feed](https://github.com/faraz-35/knowledge-feed)** — An "infinite scroll" reading app pulling from curated APIs and data sources
-- **[Neural Network Visualizer](https://github.com/faraz-35/Neural-Network-Visualizer-Simulator)** — React app simulating perceptron networks
 
 ### 📫 Reach me
 📧 syedfarazshah350@gmail.com · [LinkedIn](https://www.linkedin.com/in/s-m-faraz-shah-4639291b2/)
