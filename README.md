@@ -4,7 +4,7 @@
   <img alt="S M Faraz Shah — Full-Stack Software Engineer" src="https://raw.githubusercontent.com/faraz-35/faraz-35/main/assets/banner-dark.svg" width="100%">
 </picture>
 
-Co-founded [Parhako](https://parhako.com) — an exam-prep platform of 3 products. Led 3 engineers + an intern on the main app, then built the two paid apps (NET, MDCAT) end-to-end myself. It reached 2,400+ registered users and 50+ paying customers. I stepped away in July 2026; now open to senior full-stack roles, remote.
+I build products end to end: frontend, APIs, infra. TypeScript, React/Next, Node, Postgres, AWS. I co-founded and ran [Parhako](https://parhako.com), an exam-prep platform (2,400+ users).
 
 ### Stack
 
