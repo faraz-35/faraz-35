@@ -8,7 +8,7 @@ Co-founded [Parhako](https://parhako.com) — an exam-prep platform of 3 product
 
 ### Stack
 
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,nestjs,graphql,postgres,aws,terraform,supabase&amp;theme=dark" alt="TypeScript · React · Next.js · Node.js · NestJS · GraphQL · Postgres · AWS · Terraform · Supabase">
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,graphql,postgres,aws,terraform,supabase&amp;theme=dark" alt="TypeScript · React · Next.js · Node.js · GraphQL · Postgres · AWS · Terraform · Supabase">
 
 ### Projects
 
